@@ -11,9 +11,9 @@
 ## 🧠 Sobre mim
 
 - 🏃 Atualmente estou trabalhando em: [Plataforma jurídica online](#)
-- 🪴 Estudando mais sobre: [Rust](#) | [Angular](#) | [MySQL](#) | [APIs REST](#)
-- 🛠️ Procurando colaborar em: [Projetos open source ou freelas](#)
-- 😄 Pergunte-me sobre: [JavaScript](#), [TypeScript](#), [Git](#), [SQL](#), etc.
+- 🪴 Estudando mais sobre: [Rust](#) | [Angular](#) | [MySQL](#) | [APIs REST](#) | [Node.js](#) | [Java](#)
+- 🛠️ Procurando colaborar em: [Projetos Internacionais ou freelas](#)
+- 😄 Pergunte-me sobre: [JavaScript](#), [TypeScript](#), [Git](#), [SQL](#), [Ruby](#), [Docker](#), [Cloud](#), [AWS](#), [kubernetes](#), etc.
 - 📬 Como me encontrar: marlonandersoncesar@gmail.com
 - ☕ Curiosidade: Gosto de café e codar até tarde! 🧋💻
 
