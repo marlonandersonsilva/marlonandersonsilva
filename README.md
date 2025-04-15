@@ -59,7 +59,7 @@
   <a href="https://github.com/marlonandersonsilva">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/marlonanderson__target="_blank">
+ <a href="https://www.instagram.com/marlonanderson__" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 </p>
