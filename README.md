@@ -32,14 +32,9 @@
 </p>
 
 ---
+| <a href="https://github.com/marlonandersonsilva/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=marlonandersonsilva&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/marlonandersonsilva/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marlonandersonsilva&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=marlonanderson&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.demolab.com/?user=marlonanderson&theme=radical" />
-</p>
----
 
 ## 📫 Contato
 
