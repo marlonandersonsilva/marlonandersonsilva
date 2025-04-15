@@ -37,10 +37,8 @@
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=marlonanderson&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.demolab.com/?user=joaosilva&theme=radical" />
- 
+  <img width="48%" src="https://github-readme-streak-stats.demolab.com/?user=marlonanderson&theme=radical" />
 </p>
-
 ---
 
 ## 📫 Contato
